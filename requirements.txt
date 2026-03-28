@@ -1,1 +1,7 @@
 selenium==4.40.0
+requests
+pyautogui
+pillow
+pyscreeze
+opencv-python
+pywinauto
