@@ -15,6 +15,7 @@ class ChromeDriver:
         service = Service(
             executable_path=None
         )
+        
         prefs = {
             "intl.accept_languages": "pt-BR,pt",
             "credentials_enable_service": False,
